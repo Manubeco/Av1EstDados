@@ -77,6 +77,7 @@ public static void main(String[] args) {
                 }
             }
         }
+        entrada.close();
     }
 }
 //                    System.out.println("Teste de implementação de lista");
